@@ -1,8 +1,9 @@
 #include <stdio.h>
 /**
- * main - A program
- * Return 0 (Success)
- */
+*main - A program that prints a line with putts functions
+*Return: 0 (success)
+*/
+
 int main(void)
 {
 	char a;
@@ -10,7 +11,6 @@ int main(void)
 	long int c;
 	long long int d;
 	float f;
-
 printf("size of a char: %lu byte(s)\n", (unsigned long)size of(a));
 printf("size of a char: %lu byte(s)\n", (unsigned long)size of(b));
 printf("size of a char: %lu byte(s)\n", (unsigned long)size of(c));
