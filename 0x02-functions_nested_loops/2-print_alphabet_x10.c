@@ -7,7 +7,7 @@
 	 * followed by a new line
 	 * void - print_alphabet_x10
 	 */
-	print_alphabet_x10(void)
+	void print_alphabet_x10
 	{
 		char ch;
 		int i;
